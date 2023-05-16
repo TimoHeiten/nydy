@@ -1,0 +1,19 @@
+TODO
+nydy
+- Formatter
+- Maybe
+- other monads
+
+nydy.di
+ - ServiceLocator for IEnumerables by Key
+ - IDateTimeService
+ - Option.Register (?)
+
+nydy.web
+ - StatusCode 500 ActionResult
+ - OperationResult
+
+nydy.tests
+ - mock http handler for tests
+ - IserviceProvider Mockup for tests (bckgrndwrkr etc.)
+ - [itest factory mit sqlite in memory?]
